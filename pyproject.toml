@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "immersive-technologies"
+version = "0.1.0"
+description = "An overview of immersive technologies and applications."
+authors = [
+    { name = "Zeshan Mubshir", email = "zmubshir@outlook.com" },
+    { name = "Kashif Sharif", email = "ksharif@orientceramica.com" }
+]
