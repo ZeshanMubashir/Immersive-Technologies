@@ -9,6 +9,7 @@ Bats in different lighting conditions and how this effects the echolocation and 
 
 ## Technologies Used
 
-- Unity
+- Unity 3D Game Engine
 - C#
 - Oculus Integration
+- Blender (for 3D modeling)
