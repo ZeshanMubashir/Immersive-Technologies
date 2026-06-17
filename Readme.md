@@ -4,8 +4,6 @@
 
 A VR application that lets lighting designers experience how artificial street light pollution affects the echolocation and commuting behavior of endangered lesser horseshoe bats (*Rhinolophus hipposideros*).
 
-![Title](docs/images/report_page1_img1.png)
-
 ---
 
 ## The Problem
@@ -223,13 +221,4 @@ ProjectSettings/            # Unity project configuration
 2. [Impacts of artificial lighting on bats: challenges and solutions](https://www.researchgate.net/publication/272889669_Impacts_of_artificial_lighting_on_bats_A_review_of_challenges_and_solutions)
 3. [Comparison of bat species behavioral changes under light pollution](https://www.sciencedirect.com/science/article/abs/pii/S0269749119315210)
 
----
 
-## Authors
-
-| Name | Student No. |
-|------|-------------|
-| **Usama Asad** | 583174 |
-| **Zeshan Mubshir** | 595580 |
-
-Department of ICT and Natural Sciences | Faculty of Information Technology and Electrical Engineering | NTNU
