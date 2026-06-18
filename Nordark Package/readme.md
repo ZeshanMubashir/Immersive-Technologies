@@ -1,4 +1,1 @@
-Check Git status of the package:
-
-```bash
-git status
+Git Status and Git Commit message
